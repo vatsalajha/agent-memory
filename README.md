@@ -34,7 +34,7 @@ No separate dashboards. No heavy ML dependencies. Just a universal memory layer 
 ---
 ## Connecting Agent Memory as an MCP Server
 
-![MCP Inspector Connected](./resources/memory-dashboard/02-mcp-inspector-server-connected.png)
+![MCP Inspector Connected](./resources/memory-dashboard/02-mcp-server-connected.png)
 
 ---
 
