@@ -32,6 +32,40 @@ No separate dashboards. No heavy ML dependencies. Just a universal memory layer 
 > *Every time an AI agent forgets and you re-explain your tech stack, preferences, and decisions — that's wasted tokens, wasted money, and wasted compute. Agent Memory eliminates repeat context by letting agents recall what they already know, cutting token usage by up to 60%.*
 
 ---
+## Connecting Agent Memory as an MCP Server
+
+![MCP Inspector Connected](./resources/memory-dashboard/02-mcp-inspector-server-connected.png)
+
+---
+
+## Structured Memory Creation
+
+![Remember Tool Interface](./resources/memory-dashboard/03-remember-tool-interface.png)
+
+---
+
+## Persistent Typed Memory Dashboard
+
+![Memory Dashboard Overview](./resources/memory-dashboard/04-memory-dashboard-overview.png)
+
+---
+
+## Categorized Memory Objects
+
+![Memory List Typed Objects](./resources/memory-dashboard/05-memory-list-typed-objects.png)
+
+---
+
+## Storing Long-Term Preferences
+
+![Store Supabase Preference](./resources/memory-dashboard/06-store-user-preference-supabase.png)
+
+---
+
+## Cross-Tool Integration (Cursor)
+
+![Cursor MCP Integration](./resources/memory-dashboard/07-cursor-mcp-server-installed.png)
+---
 
 ## Connect Now
 
