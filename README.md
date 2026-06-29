@@ -449,7 +449,6 @@ npm run deploy
 ```
 
 The server is deployed at `https://winter-meadow-1651f.run.mcp-use.com/mcp` and accessible from any MCP client worldwide.
-
 ---
 
 ## Token Savings Impact
@@ -473,7 +472,6 @@ Agent Memory is built on a simple insight: **AI memory should be universal, pers
 - **Visible** — you can see, search, and manage your memories right inside the conversation
 
 No lock-in. No separate apps. No ML pipelines. Just a single MCP URL that gives every AI agent you use a shared brain.
-
 ---
 
 <div align="center">
